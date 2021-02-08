@@ -1,1 +1,1 @@
-# Technocolabs-Course-4-Machine-Learning-Intro-and-Intermediate
+Learn the core ideas in machine learning, and build your first models.
